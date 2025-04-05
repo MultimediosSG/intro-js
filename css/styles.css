@@ -1,0 +1,7 @@
+.fondoEncendido{
+    background-color: yellow;
+}
+.fondoApagado{
+    background-color: black;
+    color: white;
+}
